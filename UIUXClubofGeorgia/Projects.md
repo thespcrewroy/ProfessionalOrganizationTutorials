@@ -8,7 +8,7 @@
 
 ## Building a Project
 * Understand user pain points and needs
-    * **Observer Bias:** a  type of detection bias that occurs when observers systematically deviate from accurate facts during observation and data recording
+    * **Observer Bias:** occurs when observers systematically deviate from accurate facts during observation and data recording
     * Avoid observer bias of pain points by conducting field interviews with customers
     * Utilize sales, entrepreneurship, and product management skills
     * Frame questions in a way so that you maximize learnings of the root problems
